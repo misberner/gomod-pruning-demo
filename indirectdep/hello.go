@@ -3,6 +3,6 @@ package usedindirectdep
 import "fmt"
 
 func ActuallyPrintHelloWorld() {
-	fmt.Println("Hello, world (old version)")
+	fmt.Println("Hello, world (new version)")
 }
 
