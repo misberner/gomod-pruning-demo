@@ -1,2 +1,4 @@
-github.com/misberner/gomod-pruning-demo/indirectdep v0.0.1 h1:VmpKtcgUn0ezB7lguCyI8T3xt0BLioLpTemUF3oQTp8=
-github.com/misberner/gomod-pruning-demo/indirectdep v0.0.1/go.mod h1:oekMuF3dHhtunX3xUXEpo06E/ICThgTEOHqPe64Eef4=
+github.com/misberner/gomod-pruning-demo/indirectdep1 v0.0.2 h1:9GiF6KoUqX8tJfa+uLKbTD7JeUHRY5eke/HfAOYQ9gw=
+github.com/misberner/gomod-pruning-demo/indirectdep1 v0.0.2/go.mod h1:kXogpx7ecAlrYpEYUwcwPeKA4hwhnSL3/U6x7lF+08c=
+github.com/misberner/gomod-pruning-demo/indirectdep2 v0.0.2 h1:8Ztmbeih2Jbj8jyhnCDTGdoldRd7OqfI+91RFddEeDw=
+github.com/misberner/gomod-pruning-demo/indirectdep2 v0.0.2/go.mod h1:3V1YSG9vUOLHHhlyKS5yLKGwbLX5XbTnsQIUCL2QGYA=

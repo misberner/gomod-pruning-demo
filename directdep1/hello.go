@@ -1,7 +1,11 @@
 package directdep1
 
-import usedindirectdep "github.com/misberner/gomod-pruning-demo/indirectdep"
+import (
+	"fmt"
+	"github.com/misberner/gomod-pruning-demo/indirectdep1"
+	"github.com/misberner/gomod-pruning-demo/indirectdep2"
+)
 
 func PrintHelloWorld() {
-	usedindirectdep.ActuallyPrintHelloWorld()
+	fmt.Println(indirectdep1.Greeting(), ", ", indirectdep2.WhomToGreet())
 }
